@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Slops Hunter"
+  short_description: "Убирает воду и лишнюю сложность в текстах и коде"
+  default_prompt: "Используй $ai-slops-hunter: проверь указанный материал на шаблонность и лишнюю сложность, верни конкретные замечания без правок."
